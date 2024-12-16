@@ -1,0 +1,15 @@
+# Arduino specific files
+*.ino.*.bin
+*.elf
+*.hex
+*.bak
+*.tmp
+build/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+_*
